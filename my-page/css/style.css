@@ -1,0 +1,90 @@
+body{
+  max-width:100%;
+}
+
+.titre {
+  text-align: center;
+}
+
+p
+{
+    width: 75%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px; /* Marge intérieure de 12px */
+}
+
+.human{
+  width:100%;
+}
+
+.human_text{
+  width: 50%;
+  float:left;
+}
+
+.human_img{
+  width:50%;
+  float:right;
+}
+
+.human_img img{
+  width:40%;
+  display:inline-block;
+}
+
+
+.elf{
+  width:100%;
+}
+
+.elf_text{
+  width: 50%;
+  float:left;
+}
+
+.elf_img{
+  width:50%;
+  float:right;
+}
+
+.elf_img img{
+  width:40%;
+  display:inline-block;
+}
+
+
+body{
+  max-width:100%;
+}
+
+.titre {
+  text-align: center;
+}
+
+p
+{
+    width: 75%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px; /* Marge intérieure de 12px */
+}
+
+.dwarf{
+  width:100%;
+}
+
+.dwarf_text{
+  width: 50%;
+  float:left;
+}
+
+.dwarf_img{
+  width:50%;
+  float:right;
+}
+
+.dwarf_img img{
+  width:40%;
+  display:inline-block;
+}
